@@ -9,7 +9,9 @@ ALTA 2022
 
 Conference URL: 
 https://alta2022.alta.asn.au/
-Conference Submission Date: 12th September 2022
+
+Conference Submission Date: 
+11th September 2022
 
 Group number:
 09
